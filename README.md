@@ -1,7 +1,7 @@
 
 
 ### INSTALL SCRIPT 
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/VPN-EXECUTIVE/VIP/main/cendrawasihvpn.sh && chmod +x cendrawasihvpn.sh && ./cendrawasihvpn.sh
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget https://raw.githubusercontent.com/VPN-EXECUTIVE/VIP/main/cendrawasihvpn.sh && chmod +x cendrawasihvpn.sh && ./cendrawasihvpn.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
