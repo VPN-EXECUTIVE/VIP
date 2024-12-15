@@ -7,6 +7,9 @@
 ### PERINTAH UPDATE 
 <pre><code>wget https://raw.githubusercontent.com/VPN-EXECUTIVE/VIP/main/update.sh && chmod +x update.sh && ./update.sh<code></pre>
 
+### PERINTAH Ganti Pasword root
+<pre><code>wget https://raw.githubusercontent.com/VPN-EXECUTIVE/VIP/main/root.sh && chmod +x root.sh && ./root.sh<code></pre>
+
 ### TESTED ON OS 
 - UBUNTU 20.04.05
 - DEBIAN 10
